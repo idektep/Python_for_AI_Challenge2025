@@ -1,0 +1,30 @@
+github.com/idektep/Python_for_AI_Challenge2025
+------------------------------------------------------------------------------
+***Install Visual Studio Code***
+
+https://code.visualstudio.com/Download
+------------------------------------------------------------------------------
+***เปิดใช้งาน Virtual Environment***
+
+เปิด Terminal หรือ Command Prompt แล้วพิมพ์:
+
+บน Windows:
+/.venv/Scripts/activate
+
+บน macOS/Linux:
+source.venv/bin/activate
+
+------------------------------------------------------------------------------
+***ติดตั้ง Jupyter ***
+
+พิมพ์:  pip install notebook pandas matplotlib
+------------------------------------------------------------------------------
+***ติดตั้ง OpenCV ***
+
+พิมพ์:  pip install opencv-contrib-python
+------------------------------------------------------------------------------
+***ติดตั้ง YOLOv8 ***
+
+พิมพ์:  pip install ultralytics
+------------------------------------------------------------------------------
+
